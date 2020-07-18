@@ -1,0 +1,97 @@
+---
+published: false
+---
+## A New Post
+
+- A reminder of an idea you have, but not a fully fleshed out note.
+- __"Fleeting notes are there for capturing ideas quickly while you are busy doing something else. When you are in a conversation, listening to a lecture, hear something noteworthy or an idea pops into your mind while you are running errands, a quick note is the best you can do without interrupting what you are in the middle of doing. That might even apply to reading, if you want to focus on a text without interrupting your reading flow. Then you might want to just underline sentences or write short comments in the margins. It is important to understand, though, that underlining sentences or writing comments in the margins are also just fleeting notes and do nothing to elaborate on a text."__ pg.43
+- **Why do you take these notes? **
+    - You would take a Fleeting Note so you aren't distracted from what you're currently doing. Making a literature or permanent note takes depth of thought, and you can't do that when you're working on something else. Fleeting notes are reminders of what popped into your head.
+    - You would take these notes when you don't have time to make a proper literature or permanent note. 
+    - These notes are made when you are doing something you don't want to stop: reading, grocery shopping, driving, running, basically anything where you don't want to interrupt your flow. 
+    - If you have the time and your thoughts are sorted, you can skip fleeting notes and go straight to making a literature or permanent note.
+- **What are the rules?**
+    - Making the note shouldn't distract you from your current task. Shouldn't take more than 10 seconds.
+    - These notes should go to an inbox that you process later—much like GTD.
+    - These notes must be processed within 24-48 hours or the note you will forget the context and moment of inspiration in which the note was originally made.
+        - __"A good indication that a note has been left unprocessed too long is when you no longer understand what you meant or it appears banal. In the first case, you forgot what it was supposed to remind you of. In the second case, you forgot the context that gave it its meaning."__ pg. 44
+    - Once you process this note, discard it.
+- **Examples**
+    - Ex. 1: I'm reading a book and it gives me an idea, but I don't want to stop reading. I quickly make a note in my notebook, noting the page of the book, then continue reading. I'll process the note later that day. 
+    - I'm grocery shopping while listening to a podcast and the host touches upon an idea about habit formation. I email myself about this along with a timestamp of the podcast so I can return to that moment. I'll process that note at the end of the day. 
+    - post-it note, underlining or writing in margins of a book, email to yourself, notebook, Braintoss
+- **Where do you take these notes?**
+    - Paper/Pen is most simple
+    - Post-It Notes, scraps of paper
+    - I like BrainToss for my phone
+- **Literature Notes**
+    - **Definition**
+        - Notes about the content that you're consuming like books, articles,  lectures, podcasts, ect.
+    - **Why do you take these notes?**
+        - To make notes on the content that you don't want to forget—things you might want to use in your own writing or life. 
+        - The sole purpose of literature notes is to help with writing permanent notes.
+    - **What are the rules?**
+        - Be extremely selective in what notes you keep.
+            - If you are reading about a new subject, you might find you are taking a lot of notes—this is okay. You just need to make sure these are quality notes and that they are good jumping-off points for ideas.
+        - Use your own words
+            - Never copy quotes or passages word for word. Put them in your own words. This is one thing public school got right—requiring students to put things into their own words. This is the only way to truly internalize and idea—we must make it our own.
+        - Keep the note as short as you can.
+        - Write down bibliographic details on the source (pg #, author, ect.)
+    - **Where do you take these notes?**
+        - These will go in one place—your reference system. I just started using Zotero and it works great. It's where all my notes on books, articles, or videos go.
+    - **Examples**
+        - Say I'm reading, and I read this sentence from the book
+        - 
+    - **Other**
+        - 
+- **Permanent Notes**
+    - **Definition**
+        - Notes that contain your ideas, arguments, and discussion points in a __permanently__ understandable way. This means if you look at the note 10 years later, you'll still understand it.
+    - **Why do you take these notes?**
+        - These notes capture your ideas and will help you when writing about a topic. Also, just in making these notes, you will be learning subjects much better, since you are actually thinking and writing on the subject.
+        - __"The notes are no longer reminders of thoughts or ideas, but contain the actual thought or idea in written form. This is a crucial difference."__ pg.45
+    - **What are the rules?**
+        - Write exactly one note for each idea
+        - The note should make sense __out of context__. Someone completely ignorant of the thoughts and context behind the note should be able to understand it without referring to anything else. This is because you will be that person when you have inevitably forget the context from which the note came. We've all had the experience of going through a book with text we underlined and wondering why we underlined it in the first place.
+        - The note should contribute something to the conversation happening the slip-box (a fact, contradiction, insight, ect.) Ask yourself "What does this mean for my own research and the questions I think about in my slip-box?" The reasons are different for every person depending on their job, major, project, ect.
+    - **Where do you take these notes?**
+        - The slip-box. This is the big idea of this article
+    - **How do you file them away?**
+        - Eventually you will hit a point where you have a bunch of related notes on the topic of "The benefit of writing" where you are ready to put them together into one piece of writing.
+    - If you make a permanent note that is related to an existing one in the slip-box, file it "behind" it. I've been using Roam as a slip box, and I simply use its hashtag feature which pulls everything related under a common hashtag.
+    - **Examples**
+        - Looking at your fleeting or literature notes, how are they relevant to your own research/interests/ideas?
+    - Don't simply collect ideas, but develop connections. Think like an art curator—they bring different pieces of art together that are related or tell a story. An art collector simply collects what they like without regard of how it relates to their current collection.
+- **Where do you take these notes?**
+- **Project Notes**
+    - When would you take this note? 
+        - If you have a particular project, say an article about common kettlebell swing mistakes, you would make notes specific to this article, and keep them somewhere separate from literature or permanent notes.
+    - These notes can be discarded or archived when the project is finished.
+- **Organizing**
+    - Don’t do a massive migration of your notes into this system, just start from here on out
+    - __In the old system, the question is: Under which topic do I store this note? In the new system, the question is: In which context will I want to stumble upon it again?__
+    - Don’t hoard notes/ideas—this will dilute the system and it will become useless.
+    - When filing away notes in the **slip-box**, don't ask "Under which topic should this note go under?" Ask, "Under what circumstances would I want to stumble upon this again?"
+        - EX. Say I have a business insight after while reading the book Shoe Dog. Instead of putting this in a __Shoe Dog__ or __Book Notes__ section, it would go into a __Business Insights__ section
+- **Principles**
+    - __Writing the only thing that matters__
+        - Consume information as if you are going to write about it, this will completely change how you go about book recommendations or reading articles that friends toss at you. Make notes, develop ideas, write about what you consume.
+            - __If you change your mind about the importance of writing, you will also change your mind about everything else. Even if you decide never to write a single line of a manuscript, you will improve your reading, thinking and other intellectual skills just by doing everything as if nothing counts other than writing.__
+        - Have a clear intention or purpose for why you are reading what you are reading. You will improve your reading, thinking, focus, and engagement when you do them with a purpose.
+        - If your ideas aren't made public, they are of no use. To make ideas public, you must write them.
+            - "An idea kept private is as good as one you never had. And a fact no one can reproduce is no fact at all. Making something public always means to write it down so it can be read."
+    - __Simplicity is Paramount__
+        - Be very selective about what you add to maintain simplicity. Not every idea is worth noting.
+        - It's crucial to keep fleeting notes, permanent notes, reference notes, and project notes separate. Have a dedicated place for each. 
+    - Nobody Ever Starts From Scratch
+        - Writing doesn't start like "Hmm, what do I want to write about? I know, I'll write sunk cost fallacy. Now let me start doing research online about it."
+        - It starts by looking at your slips box and noticing "Wow, I have a lot of notes on or related to sunk-cost fallacy. If I put these together I can have an article on it. Plus I've been thinking a lot about it lately."
+        - You do not write by deciding on a subject then pulling opening up a blank screen to start. You write by looking through your slip-box and noticing where little islands of knowledge have formed and what connections can be made.
+    - __Do Not Collect__
+        - Do not read to simply consume knowledge and collect quotes, but to develop ideas, arguments and discussions.
+    - Have a purpose for everything you read
+        - __Having a clear, tangible purpose when you attend a lecture, discussion or seminar will make you more engaged and sharpen your focus. You will not waste your time with the attempt to figure out what you “should” learn. Rather, you will try to learn as efficiently as possible so you can quickly get to the point where actual open questions arise, as these are the only questions worth writing about.__
+        - It will change the way you read as well: You will become more focused on the most relevant aspects, knowing that you cannot write down everything. You will read in a more engaged way, because you cannot rephrase anything in your own words if you don’t understand what it is about. By doing this, you will elaborate on the meaning, which will make it much more likely that you will remember it. You also have to think beyond the things you read, because you need to turn it into something new. And by doing everything with the clear purpose of writing about it, you will do what you do deliberately.
+    - Take notes on anything interesting
+        - If you are currently writing about innercity traffic, and you watch a documentary on tennis that gives you an interesting idea—create a note for it. Your ideas don't need to be tied to bigger projects. You just need to capture them, organize them well, and they will pop back up when you need them. (Ex. If the tennis doc gave you an idea about practice and skill developent, you could file the idea and tag it will practice or skill developement. THen if you are writing on the subject, you will stumble upon these notes.)
+
